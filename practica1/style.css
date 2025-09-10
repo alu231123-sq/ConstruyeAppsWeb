@@ -1,0 +1,58 @@
+#mybody{
+    background-color: cyan;
+}
+#myh1{
+    color:darkred;
+    text-align: center;
+    font-size: 50px;
+}
+#myh2{
+    color:darkred;
+    text-align: center;
+    font-size: 40px;
+}
+#myh3{
+    color:darkred;
+    text-align: center;
+    font-size: 30px;
+}
+#myh4{
+    color:darkred;
+    text-align: center;
+    font-size: 30px;
+}
+#myh5{
+    color:darkred;
+    text-align: center;
+    font-size: 30px;
+}
+#myh6{
+    color:darkred;
+    text-align: center;
+    font-size: 30px;
+}
+#mydiv{
+    background-color:black;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.biografia{
+    background-color:darkviolet;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dato{
+    margin: 10px 0;
+    font-size: 18px;
+}
+.etiqueta{
+    font-weight: bold;
+    color:black;
+}
+.valor{
+    color: black;
+}
